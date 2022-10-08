@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100% , height: 30%"  />  
   
 
 ### <div align="center">I'm Kartikey Bhardwaj, a full-time Blockchain developer 👨‍💻 and enthusiast competitive programmer 🚀</div>  
