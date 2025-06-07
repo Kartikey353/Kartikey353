@@ -1,5 +1,36 @@
 # 💫 About Me:
-Kartikey Bhardwaj is a skilled Backend Developer from Bengaluru, India, with a passion for crafting efficient and secure digital solutions. <br>He's adept at leveraging technologies like Flask, React.js, and AWS to build robust backend infrastructures. <br>Kartikey's experience spans various roles, from enhancing user engagement through innovative features to streamlining processes for improved efficiency. <br>He's also proficient in blockchain development, contributing to projects that enhance user experiences and security. <br>With a Bachelor's in Computer Science and Engineering, Kartikey brings a solid foundation of knowledge in programming languages like Python and C++, along with strong leadership skills honed through teamwork and coursework.
+🚀 Software Developer | Backend | AWS | Web3
+
+I'm Kartikey Bhardawaj, a Software Developer Engineer I passionate about building scalable backend systems and cloud-native applications. Currently at ApnaVaidya, I design and implement microservices using Python and FastAPI, optimize performance, and manage cloud deployments with AWS services like Lambda and EC2 improving infrastructure efficiency and system flexibility.
+
+Previously at House of Web3, I developed backend architecture for web3 platforms, integrated AWS solutions, and built RESTful APIs using Node.js, TypeScript, and PostgreSQL. I also contributed to real-time event-driven systems for interactive gaming use cases.
+
+As a Blockchain Intern at Beyond Imagination Technology, I enhanced Bit Memoir's UI, implemented NFT-based certificates, and improved Bit Wallet's transaction time by 25%, with a 15% reduction in security incidents.
+
+🎓 Education
+JSS Academy of Technical Education, Noida
+BTech in Computer Science & Engineering
+Data Structures & Algorithms
+Blockchain Technology
+Systems Programming
+Database Management
+
+🛠 Skills
+
+Languages: JavaScript, TypeScript, Python, C++, SQL
+Backend/Frontend: FastAPI, Node.js, NestJS, React.js, Next.js, Tailwind
+DB: PostgreSQL, MongoDB
+Cloud/DevOps: AWS (Lambda, EC2, ECS), Docker, Linux
+Blockchain: Solidity, Web3.js, Ethers.js
+
+💼 Projects
+
+Ecommerce-Shop: Full-stack eCommerce app with NestJS and Next.js using SSR for performance.
+Study Notion: Course management platform with Node.js, enabling content uploads, purchases, and secure auth.
+Shadow Key (Devfolio Winner): Built stealth address system using Solidity to enhance privacy in crypto transfers.
+
+Let’s Connect
+📧 kartikey.jobs353@gmail.com
 
 
 ## 🌐 Socials:
