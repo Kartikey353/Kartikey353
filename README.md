@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 Software Developer | Backend | AWS | Web3
 
-I'm Kartikey Bhardawaj, a Software Developer Engineer I passionate about building scalable backend systems and cloud-native applications. Currently at ApnaVaidya, I design and implement microservices using Python and FastAPI, optimize performance, and manage cloud deployments with AWS services like Lambda and EC2 improving infrastructure efficiency and system flexibility.
+I'm Kartikey Bhardawaj, a Software Developer Engineer I passionate about building scalable backend systems and cloud-native applications. Currently at  I design and implement microservices using Python and FastAPI, optimize performance, and manage cloud deployments with AWS services like Lambda and EC2 improving infrastructure efficiency and system flexibility.
 
 Previously at House of Web3, I developed backend architecture for web3 platforms, integrated AWS solutions, and built RESTful APIs using Node.js, TypeScript, and PostgreSQL. I also contributed to real-time event-driven systems for interactive gaming use cases.
 
